@@ -1,2 +1,1 @@
-# accordion-javascript
-Accordion (Javascript Practice)
+# Accordion - I'm just practicing my Vanilla Javascript  😄
